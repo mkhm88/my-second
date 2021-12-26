@@ -1,2 +1,2 @@
 # my-second
-my second repository
+my second repository on github
